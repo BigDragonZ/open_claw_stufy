@@ -1,0 +1,16 @@
+# Node.js 依赖
+node_modules/
+npm-debug.log
+
+# Python & uv 依赖
+__pycache__/
+.venv/
+*.pyc
+
+# 环境变量与密钥 (绝对不能上传)
+.env
+.env.*
+
+# 操作系统临时文件
+.DS_Store
+Thumbs.db
